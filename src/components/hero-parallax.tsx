@@ -7,94 +7,94 @@ export function HeroParallaxDemo() {
 }
 export const products = [
   {
-    title: "Moonbeam",
-    link: "https://gomoonbeam.com",
+    title: "Our Hits",
+    link: "https://www.youtube.com/watch?v=BD5GzI88llk",
     thumbnail:
-      "https://aceternity.com/images/products/thumbnails/new/moonbeam.png",
+      "https://res.cloudinary.com/dyg1rahpk/image/upload/v1741023341/paradise_thumbnail5_ffc3ef.jpg",
   },
   {
-    title: "Cursor",
-    link: "https://cursor.so",
+    title: "Our Hits",
+    link: "https://www.youtube.com/watch?v=SJ9T6nRpDCM",
     thumbnail:
-      "https://aceternity.com/images/products/thumbnails/new/cursor.png",
+      "https://res.cloudinary.com/dyg1rahpk/image/upload/v1741021961/paradise_thumbnail1_vuhlnw.jpg",
   },
   {
-    title: "Rogue",
-    link: "https://userogue.com",
+    title: "Our Hits",
+    link: "https://www.youtube.com/watch?v=KVlc-KJywWA",
     thumbnail:
-      "https://aceternity.com/images/products/thumbnails/new/rogue.png",
+      "https://res.cloudinary.com/dyg1rahpk/image/upload/v1741022130/paradise_thumbnail2_vkfnyj.jpg",
   },
 
   {
-    title: "Editorially",
-    link: "https://editorially.org",
+    title: "Our Hits",
+    link: "https://www.youtube.com/watch?v=XNW6c7tMeM4",
     thumbnail:
-      "https://aceternity.com/images/products/thumbnails/new/editorially.png",
+      "https://res.cloudinary.com/dyg1rahpk/image/upload/v1741022629/paradise_thumbnail4_fzyruh.jpg",
   },
   {
-    title: "Editrix AI",
+    title: "Our Hits",
     link: "https://editrix.ai",
     thumbnail:
       "https://aceternity.com/images/products/thumbnails/new/editrix.png",
   },
   {
-    title: "Pixel Perfect",
+    title: "Our Hits",
     link: "https://app.pixelperfect.quest",
     thumbnail:
       "https://aceternity.com/images/products/thumbnails/new/pixelperfect.png",
   },
 
   {
-    title: "Algochurn",
-    link: "https://algochurn.com",
+    title: "Our Hits",
+    link: "https://www.youtube.com/watch?v=_adtfxsfc8g",
     thumbnail:
-      "https://aceternity.com/images/products/thumbnails/new/algochurn.png",
+      "https://res.cloudinary.com/dyg1rahpk/image/upload/v1741022235/paradise_thumbnail3_nrew1p.jpg",
   },
   {
-    title: "Aceternity UI",
-    link: "https://ui.aceternity.com",
+    title: "Our Hits",
+    link: "https://www.youtube.com/watch?v=jiLAL19L7N4",
     thumbnail:
-      "https://aceternity.com/images/products/thumbnails/new/aceternityui.png",
+      "https://res.cloudinary.com/dyg1rahpk/image/upload/v1741023646/paradise_thumbnail6_m0gvng.jpg",
   },
   {
-    title: "Tailwind Master Kit",
-    link: "https://tailwindmasterkit.com",
+    title: "Our Hits",
+    link: "https://www.youtube.com/watch?v=N8hgS8zdv-c",
     thumbnail:
-      "https://aceternity.com/images/products/thumbnails/new/tailwindmasterkit.png",
+      "https://res.cloudinary.com/dyg1rahpk/image/upload/v1741023754/paradise_thumbnail7_wdf2x5.jpg",
   },
   {
-    title: "SmartBridge",
-    link: "https://smartbridgetech.com",
+    title: "Our Hits",
+    link: "https://www.youtube.com/watch?v=yXaBDZ0vyn8",
     thumbnail:
-      "https://aceternity.com/images/products/thumbnails/new/smartbridge.png",
+      "https://res.cloudinary.com/dyg1rahpk/image/upload/v1741023869/paradise_thumbnail8_p5qjif.jpg",
   },
   {
-    title: "Renderwork Studio",
+    title: "Our Hits",
     link: "https://renderwork.studio",
     thumbnail:
       "https://aceternity.com/images/products/thumbnails/new/renderwork.png",
   },
 
   {
-    title: "Creme Digital",
+    title: "Our Hits",
     link: "https://cremedigital.com",
     thumbnail:
       "https://aceternity.com/images/products/thumbnails/new/cremedigital.png",
   },
   {
-    title: "Golden Bells Academy",
+    title: "Our Hits",
     link: "https://goldenbellsacademy.com",
     thumbnail:
       "https://aceternity.com/images/products/thumbnails/new/goldenbellsacademy.png",
   },
   {
-    title: "Invoker Labs",
+    title: "Our Hits",
     link: "https://invoker.lol",
     thumbnail:
       "https://aceternity.com/images/products/thumbnails/new/invoker.png",
   },
   {
-    title: "E Free Invoice",
+    title: "Our Hits",
     link: "https://efreeinvoice.com",
     thumbnail:
       "https://aceternity.com/images/products/thumbnails/new/efreeinvoice.png",

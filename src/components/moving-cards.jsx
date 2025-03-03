@@ -24,34 +24,34 @@ export function InfiniteMovingCardsDemo() {
 const testimonials = [
     {
         photo:
-            "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YXZhdGFyfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=60",
+            "https://res.cloudinary.com/dyg1rahpk/image/upload/v1741027475/paradise_work1_kv05ih.jpg",
     },
     {
         photo:
-            "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YXZhdGFyfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=60",
+            "https://res.cloudinary.com/dyg1rahpk/image/upload/v1741027546/paradise_works2_knzqep.jpg",
     },
     {
         photo:
-            "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YXZhdGFyfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=60",
+            "https://res.cloudinary.com/dyg1rahpk/image/upload/v1741027687/paradise_works3_az3zx0.jpg",
     },
     {
         photo:
-            "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YXZhdGFyfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=60",
+            "https://res.cloudinary.com/dyg1rahpk/image/upload/v1741027871/paradise_works4_mmnisn.jpg",
     },
     {
         photo:
-            "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YXZhdGFyfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=60",
+            "https://res.cloudinary.com/dyg1rahpk/image/upload/v1741027934/paradise_works5_qfj5db.jpg",
     },
     {
         photo:
-            "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YXZhdGFyfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=60",
+            "https://res.cloudinary.com/dyg1rahpk/image/upload/v1741027998/paradise_works6_bd7jjk.jpg",
     },
     {
         photo:
-            "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YXZhdGFyfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=60",
+            "https://res.cloudinary.com/dyg1rahpk/image/upload/v1741028057/paradise_works8_am3t5p.jpg",
     },
     {
         photo:
-            "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YXZhdGFyfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=60",
+            "https://res.cloudinary.com/dyg1rahpk/image/upload/v1741028132/paradise_works7_pzjsms.jpg",
     },
 ];

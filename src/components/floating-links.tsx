@@ -37,7 +37,7 @@ export function FloatingDockDemo() {
       icon: (
         <IconMapPin className="h-full w-full text-neutral-500 dark:text-neutral-300" />
       ),
-      href: "#",
+      href: "https://maps.app.goo.gl/HDf7n7YZVXYn94NB8?g_st=com.google.maps.preview.copy",
     },
     {
       title: "Whatsapp",
@@ -45,7 +45,7 @@ export function FloatingDockDemo() {
         <IconBrandWhatsapp className="h-full w-full text-neutral-500 dark:text-neutral-300" />
 
       ),
-      href: "#",
+      href: "https://wa.me/6394546819",
     },
     
     {

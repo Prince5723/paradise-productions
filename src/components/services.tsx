@@ -124,7 +124,7 @@ const SkeletonOne: React.FC = () => {
       <div className="w-full p-5 mx-auto bg-black dark:bg-neutral-900 shadow-2xl group h-96">
         <div className="flex flex-1 w-full h-full flex-col space-y-2">
           <Image
-            src="https://plus.unsplash.com/premium_photo-1739145094749-5f58adfe61d3?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwxNXx8fGVufDB8fHx8fA%3D%3D"
+            src="/paradise_feature1.jpeg"
             alt="header"
             width={800}
             height={800}
@@ -140,11 +140,10 @@ const SkeletonOne: React.FC = () => {
 
 const SkeletonTwo: React.FC = () => {
   const images = [
-    "https://images.unsplash.com/photo-1517322048670-4fba75cbbb62?q=80&w=3000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "https://images.unsplash.com/photo-1573790387438-4da905039392?q=80&w=3425&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "https://images.unsplash.com/photo-1555400038-63f5ba517a47?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "https://images.unsplash.com/photo-1554931670-4ebfabf6e7a9?q=80&w=3387&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "https://images.unsplash.com/photo-1546484475-7f7bd55792da?q=80&w=2581&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "https://res.cloudinary.com/dyg1rahpk/image/upload/v1741025052/paradise_thumbnail9_a8d0y3.jpg",
+    "https://res.cloudinary.com/dyg1rahpk/image/upload/v1741025255/paradise_thumbnail10_rtsps2.jpg",
+    "https://res.cloudinary.com/dyg1rahpk/image/upload/v1741022130/paradise_thumbnail2_vkfnyj.jpg",
+    "https://res.cloudinary.com/dyg1rahpk/image/upload/v1741022629/paradise_thumbnail4_fzyruh.jpg"
   ];
 
   const imageVariants = {
@@ -215,7 +214,7 @@ const SkeletonTwo: React.FC = () => {
 const SkeletonThree: React.FC = () => {
   return (
     <Link
-      href="https://www.youtube.com/watch?v=RPa3_AD1_Vs"
+      href="https://www.youtube.com/@globalmusicjunctionbhojpuri"
       target="_blank"
       className="relative flex gap-10 h-full group/image"
     >
@@ -223,7 +222,7 @@ const SkeletonThree: React.FC = () => {
         <div className="flex flex-1 w-full h-full flex-col space-y-2 relative">
           <IconBrandYoutubeFilled className="h-20 w-20 absolute z-10 inset-0 text-red-500 m-auto" />
           <Image
-            src="https://images.unsplash.com/photo-1738363436173-0b49cd20dea8?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwzfHx8ZW58MHx8fHx8"
+            src="/paradise_feature2.jpeg"
             alt="header"
             width={800}
             height={800}

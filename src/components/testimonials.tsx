@@ -4,38 +4,38 @@ export function AnimatedTestimonialsDemo() {
   const testimonials = [
     {
       quote:
-        "The attention to detail and innovative features have completely transformed our workflow. This is exactly what we've been looking for.",
-      name: "Sarah Chen",
-      designation: "Product Manager at TechFlow",
-      src: "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?q=80&w=3560&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "Working with Paradise Productions was an absolute pleasure! Their professionalism, dedication, and passion for quality cinema made the experience truly outstanding. Highly recommended!",
+      name: "Pawan Singh",
+      designation: "Power Star Pawan Singh",
+      src: "/paradise_testimonial1.jpeg",
     },
     {
       quote:
-        "Implementation was seamless and the results exceeded our expectations. The platform's flexibility is remarkable.",
-      name: "Michael Rodriguez",
-      designation: "CTO at InnovateSphere",
-      src: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "Had an incredible experience working with Paradise Productions! Their commitment to excellence and smooth execution made the journey unforgettable. Truly top-notch!",
+      name: "Kallu",
+      designation: "Arvind Akela - Kallu",
+      src: "/paradise_testimonial2.jpeg",
     },
     {
       quote:
-        "This solution has significantly improved our team's productivity. The intuitive interface makes complex tasks simple.",
-      name: "Emily Watson",
-      designation: "Operations Director at CloudScale",
-      src: "https://images.unsplash.com/photo-1623582854588-d60de57fa33f?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "Paradise Productions is a true gem in the world of cinema. Their dedication to creating unforgettable cinematic experiences is evident in every project they undertake. I highly recommend them for anyone looking to elevate their film production to new heights.",
+      name: "Astha Singh",
+      designation: "Astha Singh",
+      src: "/paradise_testimonial3.jpeg",
     },
     {
       quote:
-        "Outstanding support and robust features. It's rare to find a product that delivers on all its promises.",
-      name: "James Kim",
-      designation: "Engineering Lead at DataPro",
-      src: "https://images.unsplash.com/photo-1636041293178-808a6762ab39?q=80&w=3464&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "A team that understands cinema and values artists—Paradise Productions is simply the best! Looking forward to working together again!",
+      name: "Khesari",
+      designation: "Khesari Lal Yadav",
+      src: "/paradise_testimonial4.jpeg",
     },
     {
       quote:
-        "The scalability and performance have been game-changing for our organization. Highly recommend to any growing business.",
-      name: "Lisa Thompson",
-      designation: "VP of Technology at FutureNet",
-      src: "https://images.unsplash.com/photo-1624561172888-ac93c696e10c?q=80&w=2592&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "A production house that stands for quality and professionalism! Paradise Productions made the entire process smooth and enjoyable. Would love to collaborate again!",
+      name: "Ankush",
+      designation: "Ankush Raja",
+      src: "/paradise_testimonial5.jpeg",
     },
   ];
   return <AnimatedTestimonials testimonials={testimonials} />;

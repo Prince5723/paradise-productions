@@ -74,29 +74,29 @@ export const HeroParallax = ({
         className=""
       >
         <motion.div className="flex flex-row-reverse space-x-reverse space-x-20 mb-20 pointer-events-none">
-          {firstRow.map((product) => (
+          {firstRow.map((product, index) => (
             <ProductCard
               product={product}
               translate={translateX}
-              key={product.title}
+              key={`first-${index}-${product.title}`}
             />
           ))}
         </motion.div>
         <motion.div className="flex flex-row mb-20 space-x-20 pointer-events-none">
-          {secondRow.map((product) => (
+          {secondRow.map((product, index) => (
             <ProductCard
               product={product}
               translate={translateXReverse}
-              key={product.title}
+              key={`second-${index}-${product.title}`}
             />
           ))}
         </motion.div>
         <motion.div className="flex flex-row-reverse space-x-reverse space-x-20 pointer-events-none">
-          {thirdRow.map((product) => (
+          {thirdRow.map((product, index) => (
             <ProductCard
               product={product}
               translate={translateX}
-              key={product.title}
+              key={`third-${index}-${product.title}`}
             />
           ))}
         </motion.div>
@@ -144,10 +144,9 @@ export const ProductCard = ({
       whileHover={{
         y: -20,
       }}
-      key={product.title}
       className="group/product h-96 w-[30rem] relative flex-shrink-0 pointer-events-auto"
     >
-      <Link href={product.link} className="block group-hover/product:shadow-2xl pointer-events-auto">
+      <Link href={product.link} className="block group-hover/product:shadow-2xl pointer-events-auto" target="_blank" rel="noopener noreferrer">
         <Image
           src={product.thumbnail}
           height="600"
@@ -157,7 +156,7 @@ export const ProductCard = ({
         />
       </Link>
       <div className="absolute inset-0 h-full w-full opacity-0 group-hover/product:opacity-80 bg-black pointer-events-none"></div>
-      <h2 className="absolute bottom-4 left-4 opacity-0 group-hover/product:opacity-100 text-white">
+      <h2 className="absolute bottom-4 left-4 opacity-0 group-hover/product:opacity-100 text-white z-10">
         {product.title}
       </h2>
     </motion.div>
