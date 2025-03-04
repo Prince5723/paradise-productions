@@ -37,12 +37,6 @@ export const products = [
     thumbnail:
       "https://aceternity.com/images/products/thumbnails/new/editrix.png",
   },
-  {
-    title: "Our Hits",
-    link: "https://app.pixelperfect.quest",
-    thumbnail:
-      "https://aceternity.com/images/products/thumbnails/new/pixelperfect.png",
-  },
 
   {
     title: "Our Hits",
