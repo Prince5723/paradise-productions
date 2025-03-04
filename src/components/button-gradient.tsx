@@ -11,7 +11,7 @@ export function HoverBorderGradientDemo() {
         as="button"
         className="dark:bg-black relative z-50 pointer-events-auto bg-white text-black dark:text-white flex items-center space-x-2"
       >
-        <span>Bring Your Ideas to Life</span>
+        <span>Get in touch</span>
       </HoverBorderGradient>
     </div>
   );
